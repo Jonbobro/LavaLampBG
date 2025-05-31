@@ -7,11 +7,7 @@ This module is used to make nice flowing background for frames, say you have a f
 The module will only work on frames and will set the frames to clip descendants just to try
 	and minimize spoiling the effect
 
-![RainbowBG](https://github.com/user-attachments/assets/e6271428-de98-45eb-9f14-1fcf308790b8)
-![AuroraBG](https://github.com/user-attachments/assets/e16d309f-acf5-4467-a634-8d42822c4289)
-![StarsBG](https://github.com/user-attachments/assets/de821889-5d40-46ef-a851-d06fc64973c5)
-![SakuraBG](https://github.com/user-attachments/assets/c4c73f56-52e2-4eb7-b85f-64bab069b2d8)
-![rgbRingBG](https://github.com/user-attachments/assets/fdd1cbf2-47fe-4adb-b2f7-7036bacd48ef)
+https://github.com/user-attachments/assets/73071813-7d65-4ab5-a057-202a9fb5bb32
 
 I do feel I have to say I am self taught when it comes to programming of any sorts and I do just random "I wonder if this would work"
 things so there are likely 100+ ways to improve this so any help would be nice.
@@ -29,7 +25,12 @@ local Background = LavaLampBG.new({Frame = Path to frame you want to animate})
 Background:Start()
 
 Background Constructor
+
+
+
+
 =====================
+
 
 LavaLampBG.New({Parameters}) 
 
@@ -99,3 +100,5 @@ improved and fixed. I am self taught so how this is laid out is likely awful and
 but I saw something I thought was cool for the new Android OneUI update and wanted to recreate
 the moving backgrounds on some app icons. Its not perfect but its the closest I could come to 
 with what I know roblox has. 
+
+

@@ -25,11 +25,7 @@ local Background = LavaLampBG.new({Frame = Path to frame you want to animate})
 Background:Start()
 
 Background Constructor
-
-
-
-
-=====================
+=========
 
 
 LavaLampBG.New({Parameters}) 

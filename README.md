@@ -12,6 +12,14 @@ The module will only work on frames and will set the frames to clip descendants 
 ![AuroraBG](https://github.com/user-attachments/assets/e16d309f-acf5-4467-a634-8d42822c4289)
 ![StarsBG](https://github.com/user-attachments/assets/de821889-5d40-46ef-a851-d06fc64973c5)
 ![SakuraBG](https://github.com/user-attachments/assets/c4c73f56-52e2-4eb7-b85f-64bab069b2d8)
+![rgbRingBG](https://github.com/user-attachments/assets/fdd1cbf2-47fe-4adb-b2f7-7036bacd48ef)
+
+I do feel I have to say I am self taught when it comes to programming of any sorts and I do just random "I wonder if this would work"
+things so there are likely 100+ ways to improve this so any help would be nice.
+
+Also only thing I used any AI stuff for was just helping me come up with the presets since I don't know any color theory and I wanted
+to leave this as something people who aren't programmers can use.
+
 
 A quick and simple setup of the module can just be 
 ===========================================================================================

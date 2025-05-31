@@ -7,8 +7,7 @@ This module is used to make nice flowing background for frames, say you have a f
 The module will only work on frames and will set the frames to clip descendants just to try
 	and minimize spoiling the effect
 
- ![RainbowBG](https://github.com/user-attachments/assets/e6271428-de98-45eb-9f14-1fcf308790b8)
-![RadioactiveBG](https://github.com/user-attachments/assets/94e93ab7-dd1d-43bc-af81-fef29b5e5572)
+![RainbowBG](https://github.com/user-attachments/assets/e6271428-de98-45eb-9f14-1fcf308790b8)
 ![AuroraBG](https://github.com/user-attachments/assets/e16d309f-acf5-4467-a634-8d42822c4289)
 ![StarsBG](https://github.com/user-attachments/assets/de821889-5d40-46ef-a851-d06fc64973c5)
 ![SakuraBG](https://github.com/user-attachments/assets/c4c73f56-52e2-4eb7-b85f-64bab069b2d8)
